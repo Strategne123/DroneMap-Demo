@@ -331,7 +331,6 @@ MonoBehaviour:
   minFogDistance: 100
   maxFogDistance: 600
   currentDifficulty: 0
-  isNetworkLevel: 0
   isPlaying: 1
   globalTime: 0
   canCrash: 1
@@ -340,10 +339,8 @@ MonoBehaviour:
   yawEnable: 1
   pitchEnable: 1
   rollEnable: 1
-  xAxisEnable: 1
-  yAxisEnable: 1
-  zAxisEnable: 1
   levelCaption: Carpathians
+  HasPilot: 1
   levelNetId: 0
   outlineEnabled: 0
   allowedSettings: 000000000100000002000000030000000400000005000000060000000700000008000000
@@ -776,7 +773,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2697579897511594260}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: PlayerStartPos2
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -1095,7 +1092,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2697579897748685948}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: PlayerStartPos1
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -1126,7 +1123,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2697579897755683051}
   m_Layer: 0
-  m_Name: GameObject (3)
+  m_Name: PlayerStartPos4
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -1205,7 +1202,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2697579898008925218}
   m_Layer: 0
-  m_Name: GameObject (2)
+  m_Name: PlayerStartPos3
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0

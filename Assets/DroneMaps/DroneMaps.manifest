@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3232062108
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: maptest
+      Dependencies: {}
+    Info_1:
+      Name: previewtest
+      Dependencies: {}

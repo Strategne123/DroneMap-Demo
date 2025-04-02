@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 297848077
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e30e7ebf7fa484c1b759bfbafb6b3fe3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b2ef4fa2b7c87432d8a859ec8b3311fe
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e30e7ebf7fa484c1b759bfbafb6b3fe3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1bb7ea400ba1634e88222aa5df45d23, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9dd300c7ba1e4c1449d9a75d1edeac3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b4bfe8efa297be4cacff355a07f7d2c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b91ecbcc199f4492b9a91e820070131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d870ba74c3efb9541bf6d9e30d000e98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3d9796df472614c97b1c7f16fe3a31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2df02d4737b06bf4099911deaa242ce8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5edbf02552f9414590383c0fa793a02f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 182
+  Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Internal Assets/Prefabs/NetPrefabs/Levels/Carpathians.prefab
+Dependencies: []

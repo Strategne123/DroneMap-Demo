@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 307768599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea6d9c616a9ca7e080d5b906f03321d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc4d76d1bdd2900cdbed35b6cf640cbf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ea6d9c616a9ca7e080d5b906f03321d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5decd7b4d6cce743b461bcec02f9825, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: LevelTypeInfo
+Assets:
+- Assets/Internal Assets/Prefabs/NetPrefabs/Levels/PreviewCarpathians.prefab
+Dependencies: []
