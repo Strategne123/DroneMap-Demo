@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1046480689561725221
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8935588269469784794}
+  - component: {fileID: 1442387844007354238}
+  m_Layer: 0
+  m_Name: PreviewCarpathians
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8935588269469784794
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046480689561725221}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -310.56885, y: 72.38886, z: -672.5423}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1442387844007354238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046480689561725221}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5decd7b4d6cce743b461bcec02f9825, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numLevel: 1
+  caption: "\u041A\u0430\u0440\u043F\u0430\u0442\u044B"
+  sprite: {fileID: 21300000, guid: 47e572342eb26cc4783625469d2eae83, type: 3}
+  position: {x: -1.5, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0, w: 1}
+  levelTypes:
+  - levelType: AdaptiveLevel1
+    isEnabled: 0
+  - levelType: AdaptiveLevel2
+    isEnabled: 0
+  - levelType: AdaptiveLevel3_1
+    isEnabled: 0
+  - levelType: AdaptiveLevel3_2
+    isEnabled: 0
+  - levelType: AdaptiveLevel4
+    isEnabled: 0
+  - levelType: AdaptiveLevel5
+    isEnabled: 0
+  - levelType: AtackLevel
+    isEnabled: 0
+  - levelType: TrackManager
+    isEnabled: 0
